@@ -1,0 +1,29 @@
+{
+  "name": "mongo-model-class",
+  "version": "1.0.0",
+  "description": "Abstract Model class for native NodeJS Mongodb driver with cache.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha -b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasespiau/mongo-model-class.git"
+  },
+  "keywords": [
+    "mongodb",
+    "ioredis",
+    "cache",
+    "model",
+    "class"
+  ],
+  "author": "Espiau Nicolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasespiau/mongo-model-class/issues"
+  },
+  "homepage": "https://github.com/nicolasespiau/mongo-model-class#readme"
+}
