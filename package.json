@@ -25,5 +25,14 @@
   "bugs": {
     "url": "https://github.com/nicolasespiau/mongo-model-class/issues"
   },
-  "homepage": "https://github.com/nicolasespiau/mongo-model-class#readme"
+  "homepage": "https://github.com/nicolasespiau/mongo-model-class#readme",
+  "dependencies": {
+    "@bonjourjohn/utils": "^1.0.2",
+    "ioredis": "^4.16.0",
+    "mongodb": "^3.5.4"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.0",
+    "should": "^13.2.3"
+  }
 }
